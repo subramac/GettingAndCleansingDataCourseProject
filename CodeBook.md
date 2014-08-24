@@ -1,8 +1,5 @@
-This file helps understand  variables, the data, and any transformations or work that you performed to clean up the data 
 
-
-
-This code book describes the variables, the data, and any transformations or work that were performed to clean up the data 
+This code book describes the original data set/experiment used for this project, variables, the data, and any transformations or work that were performed to clean up the data 
 
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
